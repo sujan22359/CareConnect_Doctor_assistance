@@ -2,7 +2,7 @@
 
 A chatbot application that helps users find nearby doctors and hospitals based on their symptoms and live location.  
 This project combines a **FastAPI backend** for medical specialization mapping and a **React (Vite) frontend** for interactive user experience.  
-
+                                 
 ---
 
 ## 🚀 Features
